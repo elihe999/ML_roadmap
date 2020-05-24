@@ -33,3 +33,15 @@ model.compile(optimizer='adam',
 # 训练并验证模型
 model.fit(x_train, train_labels, epochs=5)
 model.evaluate(x_test, test_labels, verbose=2)
+# Train on 60000 samples
+# Epoch 1/5
+# 60000/60000 [==============================] - 4s 72us/sample - loss: 0.2919 - accuracy: 0.9156
+# Epoch 2/5
+# 60000/60000 [==============================] - 4s 58us/sample - loss: 0.1439 - accuracy: 0.9568
+# Epoch 3/5
+# 60000/60000 [==============================] - 4s 58us/sample - loss: 0.1080 - accuracy: 0.9671
+# Epoch 4/5
+# 60000/60000 [==============================] - 4s 59us/sample - loss: 0.0875 - accuracy: 0.9731
+# Epoch 5/5
+# 60000/60000 [==============================] - 3s 58us/sample - loss: 0.0744 - accuracy: 0.9766
+# 10000/1 - 1s - loss: 0.0383 - accuracy: 0.9765
