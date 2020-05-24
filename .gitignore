@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 21 day>978-7-121-33571-6
+21/Deep-Learning-21-Examples-master
+
 # C extensions
 *.so
 
@@ -103,3 +106,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Spyder project settings
+.spyderproject
+.spyproject
