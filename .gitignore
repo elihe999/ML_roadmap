@@ -4,7 +4,10 @@ __pycache__/
 *$py.class
 
 # 21 day>978-7-121-33571-6
-21/Deep-Learning-21-Examples-master
+project/21/Deep-Learning-21-Examples-master
+
+
+.vscode
 
 # C extensions
 *.so
